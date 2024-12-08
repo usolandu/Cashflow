@@ -7,6 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1rMv-axvoSNDT3r17Zy-7_ugIwK8onmzV
 """
 
+pip install --upgrade pip
+
 !pip install streamlit pyngrok streamlit-option-menu
 
 from pyngrok import ngrok
